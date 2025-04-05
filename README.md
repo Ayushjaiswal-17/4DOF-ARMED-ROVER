@@ -72,6 +72,6 @@ For any queries or collaboration, reach out via:
 - **GitHub**: https://github.com/Ayushjaiswal-17
 
 ---
-## Made with ❤ by ISTE VIT
+##                                                                                       Made with ❤ by ISTE VIT
 
 
